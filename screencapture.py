@@ -3,7 +3,7 @@ import pyscreenshot as ImageGrab
 import time
 
 if __name__ == "__main__":
-	for i in range(7,10):
+	for i in range(0,10):
 		images_folder = "orig_images/"+str(i)+"/"
 		number = images_folder.split("/")[1]
 		for i in range (45,50):
