@@ -22,7 +22,7 @@ powershell
 5. Once all the images are captured. Verify images by visiting Orig_images folder and respective digit folders.
 6. Run **[gen_dataset.py](https://github.com/swapnillondhe24/digit_recognizer/blob/master/gen_dataset.py)** and wait for generation of dataset.csv file
 7. Run **[svm_starter.py](https://github.com/swapnillondhe24/digit_recognizer/blob/master/svm_starter.py)**, 
-> tweak SVM the parameters and model name if required for better results. Do share your tweaked parameters by branching or creating pull request
+> tweak the SVM parameters and model name if required for better results. Do share your tweaked parameters by branching or creating pull request
 8. Once model is generated run the project by above method.
      
      
